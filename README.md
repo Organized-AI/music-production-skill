@@ -77,6 +77,37 @@ copy SKILL.md %APPDATA%\Claude\skills\
 
 **Done!** Start making music in <5 minutes.
 
+## 🎛️ Advanced: Session Management Integration
+
+For optimized music production sessions with automatic scheduling and token management, integrate with **cc-session-manager** skill.
+
+### What You Get
+
+The CC Session Manager enables:
+
+- **📅 Smart Scheduling** - Automatically find 5-hour production blocks in your calendar
+- **🪙 Token Management** - Track and optimize Claude Code token usage (20-30% savings)
+- **💾 Context Preservation** - Resume projects exactly where you left off
+- **📊 Analytics** - Understand your productivity patterns
+- **⚡ Real-time Alerts** - Get notified about token usage and session time
+
+### Quick Integration Setup
+
+See [SKILL_INTEGRATION.md](./SKILL_INTEGRATION.md) for complete instructions on:
+- Installing both skills
+- Configuring MCP servers
+- Using session management commands
+- Token budgeting strategies
+
+**Quick start:**
+```bash
+./setup_music_production_integration.sh
+```
+
+Then say: **"Schedule my first music production session"**
+
+[Read the complete integration guide →](./docs/integrations/MUSIC_PRODUCTION_SESSION_INTEGRATION.md)
+
 ## Usage Examples
 
 ### Basic Control

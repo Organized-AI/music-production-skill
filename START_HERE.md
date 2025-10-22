@@ -240,6 +240,18 @@ chmod +x ~/.config/Claude/skills/SKILL.md
 - Run terminal as Administrator
 - Check folder permissions
 
+## 🎛️ Advanced: Add Session Management (Optional)
+
+Once you're comfortable with the music production skill, enhance your workflow with **CC Session Manager** for intelligent session scheduling and token tracking.
+
+See [SKILL_INTEGRATION.md](./SKILL_INTEGRATION.md) for setup instructions.
+
+Quick benefits:
+- Schedule optimal 5-hour production blocks
+- Save 20-30% tokens through intelligent planning
+- Preserve context across multi-day projects
+- Get real-time token usage alerts
+
 ## What's Next?
 
 Now that you're connected, try these commands:

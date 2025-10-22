@@ -220,6 +220,27 @@ When users request generic sounds:
 pip install --force-reinstall git+https://github.com/Organized-AI/ep-koii-skills.git
 ```
 
+## 🎛️ Integration with CC Session Manager
+
+For advanced workflows, this skill integrates with the **CC Session Manager** skill for:
+
+- **Smart Scheduling** - Find optimal production time in your calendar
+- **Token Budgeting** - Predict and track token usage per session
+- **Context Preservation** - Resume multi-day projects with full state
+- **Session Analytics** - Track productivity and optimize your workflow
+
+See [SKILL_INTEGRATION.md](../SKILL_INTEGRATION.md) in the repository for complete integration instructions.
+
+### Quick Integration
+
+```bash
+# Run the setup script
+./scripts/setup_music_production_integration.sh
+
+# Then say:
+"Schedule my first music production session"
+```
+
 ## Requirements
 
 - **Hardware**: Teenage Engineering EP-133 K.O. II
