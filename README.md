@@ -240,3 +240,7 @@ The MCP server provides 9 tools:
 
 ```
 User: Help me make my first beat on the EP-133
+
+---
+
+Maintained by Jordaaan Hill ([LinkedIn](https://www.linkedin.com/in/jordaaanhill)).
